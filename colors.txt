@@ -3,3 +3,6 @@ blue
 white
 black
 yellow
+apricot
+pink
+purple
